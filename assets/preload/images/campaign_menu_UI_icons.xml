@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_icons.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf idle0000" x="0" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0001" x="0" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0002" x="184" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0003" x="184" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0004" x="368" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0005" x="552" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0006" x="552" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0007" x="552" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0008" x="552" y="0" width="184" height="128"/>
+	<SubTexture name="bf idle0009" x="552" y="0" width="184" height="128"/>
+	<SubTexture name="bfGREEN idle0000" x="736" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0001" x="736" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0002" x="896" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0003" x="896" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0004" x="1056" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0005" x="1056" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0006" x="1056" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0007" x="1056" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0008" x="1056" y="0" width="160" height="142"/>
+	<SubTexture name="bfGREEN idle0009" x="1056" y="0" width="160" height="142"/>
+	<SubTexture name="dad idle0000" x="1216" y="0" width="161" height="143" frameX="0" frameY="-5" frameWidth="161" frameHeight="148"/>
+	<SubTexture name="dad idle0001" x="1216" y="0" width="161" height="143" frameX="0" frameY="-5" frameWidth="161" frameHeight="148"/>
+	<SubTexture name="dad idle0002" x="1377" y="0" width="161" height="143" frameX="0" frameY="-5" frameWidth="161" frameHeight="148"/>
+	<SubTexture name="dad idle0003" x="1377" y="0" width="161" height="143" frameX="0" frameY="-5" frameWidth="161" frameHeight="148"/>
+	<SubTexture name="dad idle0004" x="1538" y="0" width="161" height="148"/>
+	<SubTexture name="dad idle0005" x="1538" y="0" width="161" height="148"/>
+	<SubTexture name="dad idle0006" x="1538" y="0" width="161" height="148"/>
+	<SubTexture name="dad idle0007" x="1538" y="0" width="161" height="148"/>
+	<SubTexture name="dad idle0008" x="1538" y="0" width="161" height="148"/>
+	<SubTexture name="dad idle0009" x="1538" y="0" width="161" height="148"/>
+	<SubTexture name="gf idle0000" x="1699" y="0" width="160" height="142"/>
+	<SubTexture name="gf idle0001" x="1699" y="0" width="160" height="142"/>
+	<SubTexture name="gf idle0002" x="1859" y="0" width="160" height="142"/>
+	<SubTexture name="gf idle0003" x="1859" y="0" width="160" height="142"/>
+	<SubTexture name="gf idle0004" x="0" y="148" width="160" height="142"/>
+	<SubTexture name="gf idle0005" x="0" y="148" width="160" height="142"/>
+	<SubTexture name="gf idle0006" x="0" y="148" width="160" height="142"/>
+	<SubTexture name="gf idle0007" x="0" y="148" width="160" height="142"/>
+	<SubTexture name="gf idle0008" x="0" y="148" width="160" height="142"/>
+	<SubTexture name="gf idle0009" x="0" y="148" width="160" height="142"/>
+	<SubTexture name="mom idle0000" x="160" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0001" x="160" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0002" x="333" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0003" x="333" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0004" x="506" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0005" x="679" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0006" x="679" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0007" x="679" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0008" x="679" y="148" width="173" height="137"/>
+	<SubTexture name="mom idle0009" x="679" y="148" width="173" height="137"/>
+	<SubTexture name="mom&dad idle0000" x="852" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0001" x="852" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0002" x="1013" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0003" x="1013" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0004" x="1174" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0005" x="1335" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0006" x="1335" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0007" x="1335" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0008" x="1335" y="148" width="161" height="142"/>
+	<SubTexture name="mom&dad idle0009" x="1335" y="148" width="161" height="142"/>
+	<SubTexture name="monster idle0000" x="0" y="290" width="624" height="158"/>
+	<SubTexture name="monster idle0001" x="0" y="290" width="624" height="158"/>
+	<SubTexture name="monster idle0002" x="624" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0003" x="624" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0004" x="1237" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0005" x="1237" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0006" x="1237" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0007" x="1237" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0008" x="1237" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="monster idle0009" x="1237" y="290" width="613" height="143" frameX="-11" frameY="0" frameWidth="624" frameHeight="158"/>
+	<SubTexture name="ok idle0000" x="1850" y="290" width="160" height="142"/>
+	<SubTexture name="ok idle0001" x="1850" y="290" width="160" height="142"/>
+	<SubTexture name="ok idle0002" x="0" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0003" x="0" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0004" x="160" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0005" x="320" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0006" x="320" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0007" x="320" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0008" x="320" y="448" width="160" height="142"/>
+	<SubTexture name="ok idle0009" x="320" y="448" width="160" height="142"/>
+	<SubTexture name="pico idle0000" x="480" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0001" x="480" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0002" x="642" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0003" x="642" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0004" x="804" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0005" x="966" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0006" x="966" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0007" x="966" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0008" x="966" y="448" width="162" height="144"/>
+	<SubTexture name="pico idle0009" x="966" y="448" width="162" height="144"/>
+	<SubTexture name="pixelBF idle0000" x="1128" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0001" x="1128" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0002" x="1288" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0003" x="1288" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0004" x="1448" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0005" x="1608" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0006" x="1608" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0007" x="1608" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0008" x="1608" y="448" width="160" height="142"/>
+	<SubTexture name="pixelBF idle0009" x="1608" y="448" width="160" height="142"/>
+	<SubTexture name="senpai idle0000" x="1768" y="448" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0001" x="1768" y="448" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0002" x="0" y="592" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0003" x="0" y="592" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0004" x="161" y="592" width="169" height="142"/>
+	<SubTexture name="senpai idle0005" x="330" y="592" width="167" height="142" frameX="-2" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0006" x="330" y="592" width="167" height="142" frameX="-2" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0007" x="497" y="592" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0008" x="497" y="592" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="senpai idle0009" x="658" y="592" width="161" height="142" frameX="-8" frameY="0" frameWidth="169" frameHeight="142"/>
+	<SubTexture name="spirit idle0000" x="819" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0001" x="819" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0002" x="979" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0003" x="979" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0004" x="1139" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0005" x="1299" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0006" x="1299" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0007" x="1459" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0008" x="1459" y="592" width="160" height="205"/>
+	<SubTexture name="spirit idle0009" x="819" y="592" width="160" height="205"/>
+	<SubTexture name="spooky idle0000" x="1619" y="592" width="171" height="145"/>
+	<SubTexture name="spooky idle0001" x="1619" y="592" width="171" height="145"/>
+	<SubTexture name="spooky idle0002" x="1790" y="592" width="171" height="145"/>
+	<SubTexture name="spooky idle0003" x="1790" y="592" width="171" height="145"/>
+	<SubTexture name="spooky idle0004" x="0" y="797" width="171" height="145"/>
+	<SubTexture name="spooky idle0005" x="171" y="797" width="171" height="145"/>
+	<SubTexture name="spooky idle0006" x="171" y="797" width="171" height="145"/>
+	<SubTexture name="spooky idle0007" x="171" y="797" width="171" height="145"/>
+	<SubTexture name="spooky idle0008" x="171" y="797" width="171" height="145"/>
+	<SubTexture name="spooky idle0009" x="171" y="797" width="171" height="145"/>
+	<SubTexture name="tank idle0000" x="342" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0001" x="342" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0002" x="502" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0003" x="502" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0004" x="662" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0005" x="822" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0006" x="822" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0007" x="822" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0008" x="822" y="797" width="160" height="142"/>
+	<SubTexture name="tank idle0009" x="822" y="797" width="160" height="142"/>
+</TextureAtlas>
